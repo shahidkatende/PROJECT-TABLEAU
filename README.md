@@ -1,3 +1,3 @@
 # PROJECT-TABLEAU
  THE LINK BELOW POINTS TO MY PUBLIC TABLEAU PROFILE WHERE DASHBOARD 2 AND OTHER PROJECTS ARE
-TABLEAU LINK : https://public.tableau.com/app/profile/shahid7064
+ public.tableau.com/app/profile/shahid7064
